@@ -4,4 +4,11 @@ This project fetch a list of offers from https://us-central1-techtaskapi.cloudfu
 
 The project can be built wiht Android Studio Chipmunk | 2021.2.1 or higher.
 
-Dowload project using git 
+Dowload project using git.
+Download links: 
+- https://github.com/nievesleonadrian/MyOffers.git
+- git@github.com:nievesleonadrian/MyOffers.git
+Or download it using the 'Download Zip' option 
+
+
+
