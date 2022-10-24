@@ -8,6 +8,7 @@ Dowload project using git.
 Download links: 
 - https://github.com/nievesleonadrian/MyOffers.git
 - git@github.com:nievesleonadrian/MyOffers.git
+- gh repo clone nievesleonadrian/MyOffers
 
 Or download it using the 'Download Zip' option.
 
