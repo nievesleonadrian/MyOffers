@@ -1,0 +1,67 @@
+{
+  "page": 0,
+  "pageSize": 10,
+  "total": 29,
+  "items": [
+    {
+      "id": "5d4aab8ba707c58f2522ddd7",
+      "title": "Product 1",
+      "image": "https://s3-eu-west-1.amazonaws.com/bstage/offers/PQN94H6LSZ8D0YOKCMV5.png",
+      "price": 100
+    },
+    {
+      "id": "5d4aab8b2ce888bcf522979d",
+      "title": "Product 2",
+      "image": "https://s3-eu-west-1.amazonaws.com/bstage/offers/PQN94H6LSZ8D0YOKCMV5.png",
+      "price": 100
+    },
+    {
+      "id": "5d4aab8b14d671a3aa0885a4",
+      "title": "Product 3",
+      "image": "https://s3-eu-west-1.amazonaws.com/bstage/offers/PQN94H6LSZ8D0YOKCMV5.png",
+      "price": 100
+    },
+    {
+      "id": "5d4aab8bddab2c96d47493a1",
+      "title": "Product 4",
+      "image": "https://s3-eu-west-1.amazonaws.com/bstage/offers/PQN94H6LSZ8D0YOKCMV5.png",
+      "price": 100
+    },
+    {
+      "id": "5d4aab8b15341b636b9d41ff",
+      "title": "Product 5",
+      "image": "https://s3-eu-west-1.amazonaws.com/bstage/offers/PQN94H6LSZ8D0YOKCMV5.png",
+      "price": 100
+    },
+    {
+      "id": "5d4aab8ba99d34b3053d1bde",
+      "title": "Product 6",
+      "image": "https://s3-eu-west-1.amazonaws.com/bstage/offers/PQN94H6LSZ8D0YOKCMV5.png",
+      "price": 100
+    },
+    {
+      "id": "5d4aab8bf3bf9ba25aab2615",
+      "title": "Product 7",
+      "image": "https://s3-eu-west-1.amazonaws.com/bstage/offers/PQN94H6LSZ8D0YOKCMV5.png",
+      "price": 100
+    },
+    {
+      "id": "5d4aab8b32159f510266e63c",
+      "title": "Product 8",
+      "image": "https://s3-eu-west-1.amazonaws.com/bstage/offers/PQN94H6LSZ8D0YOKCMV5.png",
+      "price": 100
+    },
+    {
+      "id": "5d4aab8bf6700ceb24507f5a",
+      "title": "Product 9",
+      "image": "https://s3-eu-west-1.amazonaws.com/bstage/offers/PQN94H6LSZ8D0YOKCMV5.png",
+      "price": 100
+    },
+    {
+      "id": "5d4aab8b18c4015237387361",
+      "title": "Product 10",
+      "image": "https://s3-eu-west-1.amazonaws.com/bstage/offers/PQN94H6LSZ8D0YOKCMV5.png",
+      "price": 100
+    }
+  ]
+}
